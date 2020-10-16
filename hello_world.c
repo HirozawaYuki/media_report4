@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("My hobby is watching baseball.");
+	printf("I am in branch2nd.");
 
 	return 0;
 }
